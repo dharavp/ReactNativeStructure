@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "465213529494",
+    "firebase_url": "https://rnstructure-2fec8.firebaseio.com",
+    "project_id": "rnstructure-2fec8",
+    "storage_bucket": "rnstructure-2fec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465213529494:android:df4f5e112f6a04b7",
+        "android_client_info": {
+          "package_name": "com.reactnativestructure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465213529494-83iqfen8q8k1stj9iovbj23k6l103jch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcwn9e7iMvkmalXZSZQbkVjStgjXZLcKA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
